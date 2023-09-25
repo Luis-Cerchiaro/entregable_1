@@ -1,0 +1,46 @@
+.quoteCard {
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: 1fr auto;
+  text-align: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.quoteCard_title {
+  font-family: "Digital Numbers", sans-serif;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0px 4px 6px #9f84c5;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.quoteCard_phrase {
+  margin: 30px auto;
+  max-width: 400px;
+  padding: 20px 10px;
+  font-family: "Digital Numbers", sans-serif;
+  border-radius: 20px;
+  background: linear-gradient(180deg, #fff 0%, rgba(255, 255, 255, 0.33) 100%);
+  color: black;
+}
+
+.quoteCard_footer {
+  font-family: sans-serif;
+  color: white;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.quoteCard_button {
+  width: 48.75px;
+  height: 48.75px;
+  background: url("/button.svg");
+  background-size: cover;
+  background-position: center;
+  border: none;
+}

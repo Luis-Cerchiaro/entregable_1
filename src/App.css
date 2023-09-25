@@ -1,0 +1,32 @@
+.app {
+  background-size: cover;
+  background-position: center;
+}
+
+.app.bg1 {
+  background-image: url(/bg1.jpg);
+}
+
+.app.bg2 {
+  background-image: url(/bg2.jpg);
+}
+
+.app.bg3 {
+  background-image: url(/bg3.jpg);
+}
+
+.app.bg4 {
+  background-image: url(/bg4.jpg);
+}
+
+.app.bg5 {
+  background-image: url(/bg5.jpg);
+}
+
+.app.bg6 {
+  background-image: url(/bg6.jpg);
+}
+
+.app.bg7 {
+  background-image: url(/bg7.jpg);
+}
