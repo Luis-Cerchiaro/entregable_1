@@ -5,28 +5,35 @@
 
 .app.bg1 {
   background-image: url(/bg1.jpg);
+  height: 100vh;
 }
 
 .app.bg2 {
   background-image: url(/bg2.jpg);
+  height: 100vh;
 }
 
 .app.bg3 {
   background-image: url(/bg3.jpg);
+  height: 100vh;
 }
 
 .app.bg4 {
   background-image: url(/bg4.jpg);
+  height: 100vh;
 }
 
 .app.bg5 {
   background-image: url(/bg5.jpg);
+  height: 100vh;
 }
 
 .app.bg6 {
   background-image: url(/bg6.jpg);
+  height: 100vh;
 }
 
 .app.bg7 {
   background-image: url(/bg7.jpg);
+  height: 100vh;
 }
